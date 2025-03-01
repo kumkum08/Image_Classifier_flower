@@ -7,8 +7,8 @@ A deep learning model that classifies flower images into different species using
 ## Technologies Used
 
 - Python
-- TensorFlow/Keras or PyTorch
-- OpenCV, NumPy, Matplotlib
+- PyTorch
+- NumPy, Matplotlib
 
 ## How It Works
 
